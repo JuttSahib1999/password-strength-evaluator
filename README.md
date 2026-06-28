@@ -44,7 +44,7 @@ All analysis happens 100% client-side. No API calls. No servers. No telemetry.
 
 ## 🖥️ Demo
 
-> **Try it live:** *(Add your GitHub Pages or hosted link here)*
+> **Try it live:** [https://juttsahib1999.github.io/password-strength-evaluator/](https://juttsahib1999.github.io/password-strength-evaluator/)
 
 ---
 
@@ -236,7 +236,7 @@ This project is licensed under the **MIT License** — free to use, modify, and 
 ```
 MIT License
 
-Copyright (c) 2025 Abdul Muqeet Tabraiz (JuttSahib1999)
+Copyright (c) 2026 Abdul Muqeet Tabraiz (JuttSahib1999)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
