@@ -1,0 +1,47 @@
+# ─── OS Files ───────────────────────────
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# ─── Editor / IDE ───────────────────────
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+*.swp
+*.bak
+*~
+
+# ─── Logs & Temp ────────────────────────
+*.log
+*.tmp
+*.temp
+npm-debug.log*
+
+# ─── Node (if dependencies ever added) ──
+node_modules/
+package-lock.json
+yarn.lock
+
+# ─── Build / Dist ───────────────────────
+dist/
+build/
+out/
+
+# ─── Environment / Secrets ──────────────
+.env
+.env.*
+*.key
+*.pem
+
+# ─── Misc ───────────────────────────────
+*.zip
+*.tar.gz
